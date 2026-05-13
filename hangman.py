@@ -1,7 +1,7 @@
 import random
 
 # Predefined words
-words = ["python", "apple", "school", "intern", "laptop"]
+words = ["ALPHA", "Python", "SSCCS", "Intern", "Game"]
 
 # Randomly select a word
 word = random.choice(words)
